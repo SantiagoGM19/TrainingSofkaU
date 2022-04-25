@@ -96,10 +96,34 @@
             if (this.board.playing) {
                 this.clean();
                 this.draw();
-                this.check_collisions();
                 this.board.ball.move();
             }
         }
+    }
+
+    function hit(a, b) {
+        //Revisa si a colisiona con b
+        let hit = false;
+        //colisiones horizontales
+        if (b.x + b.width >= a.x && b.x < a.x + a.width) {
+            //colisiones verticales
+            if (b.y + b.height >= a.y && b.y < a.y + a.height) {
+                hit = true;
+            }
+        }
+        //colision de a con b
+        if (b.x <= a.x && b.x + b.width >= a.x + a.width) {
+            if (b.y <= a.y && b.y + b.height >= a.y + a.height) {
+                hit = true;
+            }
+        }
+        //colision de b con a
+        if (a.x <= b.x && a.x + a.width >= b.x + b.width) {
+            if (a.y <= b.y && a.y + a.height >= b.y + b.height) {
+                hit = true;
+            }
+        }
+        return hit
     }
 
     function draw(ctx, element) {
