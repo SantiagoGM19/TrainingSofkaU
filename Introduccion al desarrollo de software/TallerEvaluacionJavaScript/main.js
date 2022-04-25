@@ -92,10 +92,19 @@
                 draw(this.ctx, element)
             };
         },
+        check_collisions: function () {
+            for (let i = this.board.bars.length - 1; i >= 0; i--) {
+                let bar = this.board.bars[i];
+                if (hit(bar, this.board.ball)) {
+                    this.board.ball.collision(bar);
+                }
+            }
+        },
         play: function () {
             if (this.board.playing) {
                 this.clean();
                 this.draw();
+                this.check_collisions();
                 this.board.ball.move();
             }
         }
