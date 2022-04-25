@@ -1,0 +1,24 @@
+
+i
+java:S1192"GDefine a constant instead of duplicating this literal "BLANCO" 3 times.(ô—úÿÿÿÿ8ƒŒÔ§„0
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¼â²”
+w	java:S116"VRename this field "PRECIO_BASE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûé‰Ñÿÿÿÿÿ8¾ŒÔ§„0
+q	java:S116"PRename this field "COLOR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô—úÿÿÿÿ8¿ŒÔ§„0
+~	java:S116"]Rename this field "CONSUMO_ENERGETICO" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’€Ìˆÿÿÿÿÿ8¿ŒÔ§„0
+k	java:S116"ORename this field "PESO" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»®İó8¿ŒÔ§„0
+C
+java:S1170"!Make this final field static too.(ûé‰Ñÿÿÿÿÿ8¿ŒÔ§„0
+C
+java:S1170"!Make this final field static too.(ô—úÿÿÿÿ8ÀŒÔ§„0
+C
+java:S1170"!Make this final field static too.(’€Ìˆÿÿÿÿÿ8ÀŒÔ§„0
+>
+java:S1170"!Make this final field static too.(»®İó8ÀŒÔ§„0
+p
+java:S1845"NRename field "COLOR" to prevent any misunderstanding/clash with field "color".(ô—úÿÿÿÿ8ÁŒÔ§„0
+i
+java:S1845"LRename field "PESO" to prevent any misunderstanding/clash with field "peso".(»®İó8ÂŒÔ§„0
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8ä¦Ğ§„0
+Q
+java:S1128"4Remove this unused import 'java.util.stream.Stream'.(ó÷”8å¦Ğ§„0

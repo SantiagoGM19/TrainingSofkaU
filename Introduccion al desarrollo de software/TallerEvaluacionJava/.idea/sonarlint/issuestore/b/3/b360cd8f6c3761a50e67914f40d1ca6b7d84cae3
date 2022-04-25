@@ -1,0 +1,17 @@
+
+G
+java:S5411"*Use the primitive boolean expression here.(ê„Şó8®“Ùê…0
+G
+java:S5411$"*Use the primitive boolean expression here.(††õÇ8õ»Úê…0
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‘´Ö‹
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ç—ÛŒ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(­äÛK
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(Ø»„Âøÿÿÿÿ
+S	java:S106("9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ
+S	java:S106:"9Replace this use of System.out or System.err by a logger.(×ä¢úÿÿÿÿ
+S	java:S106;"9Replace this use of System.out or System.err by a logger.(£¸ìëûÿÿÿÿ
+S	java:S106<"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ
+U	java:S106="9Replace this use of System.out or System.err by a logger.(Æ¿¯š8¶—Ùê…0
+U	java:S106>"9Replace this use of System.out or System.err by a logger.(¦¬Üõ8ÉÁÙê…0
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8Á÷Úê…0

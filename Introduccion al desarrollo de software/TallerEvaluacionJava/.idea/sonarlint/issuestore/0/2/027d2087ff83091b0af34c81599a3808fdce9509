@@ -1,0 +1,10 @@
+
+k	java:S117@"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òÂ–Ýÿÿÿÿÿ
+E
+java:S5411K"*Use the primitive boolean expression here.(¨ë¡™ÿÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(·´ÂÛ
+h	java:S116"NRename this field "DNI" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èüöšýÿÿÿÿ
+3
+java:S2119d"Save and re-use this "Random".(¼ÝÅf
+E
+java:S1128"/Remove this unused import 'java.util.Calendar'.(ÿÛö´

@@ -1,0 +1,24 @@
+
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(þÆ¬€þÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(þÆ¬€þÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(þÆ¬€þÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(þÆ¬€þÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(þÆ¬€þÿÿÿÿ
+x
+java:S1488!"]Immediately return this expression instead of assigning it to the temporary variable "frase".(€Å‰´øÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ýÞùç
+b
+java:S1659"GDeclare "cantidad_e" and all following declarations on a separate line.(þÆ¬€þÿÿÿÿ
+J
+java:S1481"/Remove this unused "cantidad_a" local variable.(þÆ¬€þÿÿÿÿ
+J
+java:S1481"/Remove this unused "cantidad_e" local variable.(þÆ¬€þÿÿÿÿ
+J
+java:S1481"/Remove this unused "cantidad_i" local variable.(þÆ¬€þÿÿÿÿ
+J
+java:S1481"/Remove this unused "cantidad_o" local variable.(þÆ¬€þÿÿÿÿ
+J
+java:S1481"/Remove this unused "cantidad_u" local variable.(þÆ¬€þÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(äÊ¦€
+N	java:S106"9Replace this use of System.out or System.err by a logger.(™Ûº›
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(é“Ñùýÿÿÿÿ

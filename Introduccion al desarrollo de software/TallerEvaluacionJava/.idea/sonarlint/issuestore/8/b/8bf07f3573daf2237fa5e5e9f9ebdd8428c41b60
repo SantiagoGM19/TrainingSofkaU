@@ -1,0 +1,35 @@
+
+w
+java:S1488A"\Immediately return this expression instead of assigning it to the temporary variable "dato".(‹¿µñüÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(·´ÂÛ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ôíš
+M	java:S106
+"9Replace this use of System.out or System.err by a logger.(ø†U
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Çû™Ú
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÇêùÃùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(æÃ¯Îşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ğÔ³ãøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¤ï‡«şÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(ø†U
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Çû™Ú
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÇêùÃùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(æÃ¯Îşÿÿÿÿ
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ
+X	java:S125#"<This block of commented-out lines of code should be removed.(†·ÿÚ8ß»úûƒ0
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(ùÆ¬ øÿÿÿÿ
+S	java:S106-"9Replace this use of System.out or System.err by a logger.(ó³êËşÿÿÿÿ
+S	java:S106."9Replace this use of System.out or System.err by a logger.(ü•ÿäüÿÿÿÿ
+N	java:S106/"9Replace this use of System.out or System.err by a logger.(ÉÎ·ö
+Z	java:S1060"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ8ššûƒ0
+U	java:S1063"9Replace this use of System.out or System.err by a logger.(Åè¿8åÂûƒ0
+Z	java:S1064"9Replace this use of System.out or System.err by a logger.(ÿÊÀ²ÿÿÿÿÿ8¢ğûƒ0
+Z	java:S1065"9Replace this use of System.out or System.err by a logger.( œ‹ıøÿÿÿÿ8·‚ûƒ0
+U	java:S1066"9Replace this use of System.out or System.err by a logger.(À‰°š8Û÷ƒûƒ0
+Z	java:S1067"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ8Ü÷ƒûƒ0
+T	java:S1069"9Replace this use of System.out or System.err by a logger.(µ¿ƒq8ê¯Öûƒ0
+U	java:S106:"9Replace this use of System.out or System.err by a logger.(ÓıÒ‹8ô÷Öûƒ0
+U	java:S106;"9Replace this use of System.out or System.err by a logger.(²Ñªš8ì›×ûƒ0
+U	java:S106<"9Replace this use of System.out or System.err by a logger.(¦ˆ©8ÙÅ×ûƒ0
+g
+java:S1128"JRemove this unused import 'javax.imageio.plugins.jpeg.JPEGImageReadParam'.(Íéâ8ø»“ûƒ0

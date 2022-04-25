@@ -1,0 +1,31 @@
+
+
+java:S1192"|Define a constant instead of duplicating this literal "-----------------------------------------------------------" 3 times.(¤¨œ úÿÿÿÿ8ÄÏœÇƒ0
+u
+java:S1488?"_Immediately return this expression instead of assigning it to the temporary variable "palabra".(íò¿
+E
+java:S5411"*Use the primitive boolean expression here.(µÖÏÿÿÿÿÿ
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(˜ÙÔ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¤¨œ úÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(³–û­
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¤¨œ úÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¬ÀŞáşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‡¢¡¯
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¤¨œ úÿÿÿÿ
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(ÉÃ¯³ıÿÿÿÿ
+U	java:S106$"9Replace this use of System.out or System.err by a logger.(¢¥ÖÖ8¦Î‰Çƒ0
+Z	java:S106'"9Replace this use of System.out or System.err by a logger.(ñÎî¾üÿÿÿÿ8‹ŒÇƒ0
+U	java:S106("9Replace this use of System.out or System.err by a logger.(·Ìñû8Á‰Çƒ0
+Z	java:S1065"9Replace this use of System.out or System.err by a logger.(Ç¥¾öüÿÿÿÿ8ÕÑÇƒ0
+Z	java:S1066"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ8ƒÎ”Çƒ0
+Z	java:S1067"9Replace this use of System.out or System.err by a logger.(İ¡Õıÿÿÿÿ8Ê¯•Çƒ0
+Z	java:S1068"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ8½·šÇƒ0
+Z	java:S1069"9Replace this use of System.out or System.err by a logger.(£¯éÅûÿÿÿÿ8öšÇƒ0
+Z	java:S106>"9Replace this use of System.out or System.err by a logger.(³„û†ÿÿÿÿÿ8ĞœÇƒ0
+^
+java:S1128"ARemove this unused import 'java.security.spec.RSAOtherPrimeInfo'.(“¹ÌÉ8ñ“»Éƒ0
+Q
+java:S1128"4Remove this unused import 'java.util.stream.Stream'.(ó÷”8ò“»Éƒ0

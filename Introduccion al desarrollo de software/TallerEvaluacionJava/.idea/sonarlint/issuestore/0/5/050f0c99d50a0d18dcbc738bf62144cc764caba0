@@ -1,0 +1,12 @@
+
+E
+java:S5411*"*Use the primitive boolean expression here.(®úºÔþÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¼â²”
+j	java:S116"URename this field "RESOLUCION" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦íãê
+p	java:S116	"[Rename this field "SINTONIZADOR_TDT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ„ÏÖ
+7
+java:S1170"!Make this final field static too.(¦íãê
+7
+java:S1170	"!Make this final field static too.(œ„ÏÖ
+n
+java:S1845"XRename field "RESOLUCION" to prevent any misunderstanding/clash with field "resolucion".(¦íãê
