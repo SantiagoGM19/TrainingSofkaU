@@ -124,6 +124,32 @@ let canvas = document.getElementById('canvas');
 let board_view = new BoardView(canvas, board);
 let ball = new Ball(350, 100, 10, board)
 
+document.addEventListener("keydown", function (ev) {
+    console.log(ev.code);
+    if (ev.code === "ArrowUp") {
+        ev.preventDefault();
+        bar1.up();
+    }
+    else if (ev.code === "ArrowDown") {
+        ev.preventDefault();
+        bar1.down();
+    }
+    else if (ev.code === "KeyS") {
+        ev.preventDefault();
+        bar2.down();
+    }
+    else if (ev.code === "KeyW") {
+        ev.preventDefault();
+        bar2.up();
+    }
+    else if (ev.code === "Space") {
+        ev.preventDefault();
+        board.playing = !board.playing;
+    }
+    console.log("bar2 " + bar2.toString());
+    console.log("bar1 " + bar1.toString());
+});
+
 board_view.draw();
 window.requestAnimationFrame(controller);
 function controller() {
